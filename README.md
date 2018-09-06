@@ -1,6 +1,6 @@
 ### Info
 
-Scoop Bucket with some useful tools. See https://scoop.sh for installation info.
+Scoop Bucket with some useful tools. See https://scoop.sh for installation info. To submit a request please create an issue.
 
 ### Installation
 
