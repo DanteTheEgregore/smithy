@@ -1,0 +1,1 @@
+Scoop Bucket with some useful tools. See https://scoop.sh for installation info.

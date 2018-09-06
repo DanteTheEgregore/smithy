@@ -1,0 +1,19 @@
+{
+    "homepage": "https://www.draw.io/",
+    "description": "flowchart creator",
+    "version": "8.8.0",
+    "license": "Custom EULA",
+    "url": "https://github.com/jgraph/drawio-desktop/releases/download/v8.8.0/draw.io-setup-signed-8.8.0.exe#/draw.io.7z",
+    "extract_dir": "$PLUGINSDIR\\",
+    "hash": "98470bf6246cd562e9367f1a5218a0301d54dee85a7e3f6a4dd3aeb3d2b31c73",
+    "bin": "draw.io.exe",
+    "installer": {
+        "script": "cd scoop\\apps\\draw.io\\$version; rm *.dll; 7z x app-64.7z; rm app-64.7z"
+    },
+    "shortcuts": [
+        [
+            "draw.io.exe",
+            "draw.io"
+        ]
+    ]
+}
